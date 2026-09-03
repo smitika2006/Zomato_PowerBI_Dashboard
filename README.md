@@ -1,5 +1,4 @@
 # Zomato_PowerBI_Dashboard
-# Zomato Power BI Dashboard
 
 An interactive Power BI dashboard created to analyze and visualize Zomato restaurant data. The dashboard provides insights into restaurant performance, ratings, cuisines, locations, and other key metrics.
 
@@ -19,6 +18,10 @@ The dashboard helps analyze:
 ## Dashboard Preview
 
 ![Zomato Power BI Dashboard](ZOMATO%20DASHBOARD.png)
+
+## Dataset 
+
+Dataset source :![Data set souce](https://github.com/smitika2006/Zomato_PowerBI_Dashboard/blob/c1c342f28436443788e5f9cfef97fc88aac9ab0a/Zomato_dataset.csv)
 
 ## Key Analysis
 

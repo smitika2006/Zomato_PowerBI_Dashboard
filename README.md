@@ -21,7 +21,7 @@ The dashboard helps analyze:
 
 ## Dataset 
 
-Dataset source :![Data set souce](https://github.com/smitika2006/Zomato_PowerBI_Dashboard/blob/c1c342f28436443788e5f9cfef97fc88aac9ab0a/Zomato_dataset.csv)
+Dataset source :![Data set source](https://github.com/smitika2006/Zomato_PowerBI_Dashboard/blob/c1c342f28436443788e5f9cfef97fc88aac9ab0a/Zomato_dataset.csv)
 
 ## Key Analysis
 
